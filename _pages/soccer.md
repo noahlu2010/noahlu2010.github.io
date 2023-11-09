@@ -22,14 +22,8 @@ gallery2:
   - url: /assets/images/soccer1/DSC07221.jpg
     image_path: /assets/images/soccer1_DSC07221.jpg
     alt: "Tai Tam Tigers vs UKFA"
-  - url: /assets/images/soccer1/DSC07284.jpg
-    image_path: /assets/images/soccer1_DSC07284.jpg
-    alt: "Tai Tam Tigers vs UKFA"
   - url: /assets/images/soccer1/DSC07421.jpg
     image_path: /assets/images/soccer1_DSC07421.jpg
-    alt: "Tai Tam Tigers vs UKFA"
-  - url: /assets/images/soccer1/DSC07426.jpg
-    image_path: /assets/images/soccer1_DSC07426.jpg
     alt: "Tai Tam Tigers vs UKFA"
   - url: /assets/images/soccer1/DSC07428.jpg
     image_path: /assets/images/soccer1_DSC07428.jpg
@@ -68,9 +62,6 @@ gallery3:
     alt: "Soccer training"
   - url: /assets/images/soccer2/WA106146.jpg
     image_path: /assets/images/soccer2_WA106146.jpg
-    alt: "Soccer training"
-  - url: /assets/images/soccer2/WA106147.jpg
-    image_path: /assets/images/soccer2_WA106147.jpg
     alt: "Soccer training"
   - url: /assets/images/soccer2/WA106151.jpg
     image_path: /assets/images/soccer2_WA106151.jpg
