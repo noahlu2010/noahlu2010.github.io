@@ -40,6 +40,38 @@ gallery2:
   - url: /assets/images/soccer1/DSC07789.jpg
     image_path: /assets/images/soccer1_DSC07789.jpg
     alt: "Tai Tam Tigers vs UKFA"
+
+gallery3:
+  - url: /assets/images/soccer2/WA106020.jpg
+    image_path: /assets/images/soccer2_WA106020.jpg
+    alt: "Soccer training"
+  - url: /assets/images/soccer2/WA106022.jpg
+    image_path: /assets/images/soccer2_WA106022.jpg
+    alt: "Soccer training"
+  - url: /assets/images/soccer2/WA106089.jpg
+    image_path: /assets/images/soccer2_WA106089.jpg
+    alt: "Soccer training"
+  - url: /assets/images/soccer2/WA106091.jpg
+    image_path: /assets/images/soccer2_WA106091.jpg
+    alt: "Soccer training"
+  - url: /assets/images/soccer2/WA106115.jpg
+    image_path: /assets/images/soccer2_WA106115.jpg
+    alt: "Soccer training"
+  - url: /assets/images/soccer2/WA106146.jpg
+    image_path: /assets/images/soccer2_WA106146.jpg
+    alt: "Soccer training"
+  - url: /assets/images/soccer2/WA106147.jpg
+    image_path: /assets/images/soccer2_WA106147.jpg
+    alt: "Soccer training"
+  - url: /assets/images/soccer2/WA106151.jpg
+    image_path: /assets/images/soccer2_WA1061451.jpg
+    alt: "Soccer training"
+  - url: /assets/images/soccer2/WA106154.jpg
+    image_path: /assets/images/soccer2_WA106154.jpg
+    alt: "Soccer training"
+  - url: /assets/images/soccer2/WA106156.jpg
+    image_path: /assets/images/soccer2_WA1061456.jpg
+    alt: "Soccer training"        
 ---
 
 I have been playing soccer for almost 12 years now and it has been my main sport. I have been playing defender for 5 years at my current soccer club called Tai Tam Tigers and have gotten into the HKIS school soccer team. The aspect of soccer I enjoy the most is the team dynamics and I believe that having good communication with your team is essential for success and is the only way you can play well as a team. Something soccer has taught me is persistence in practice. I learned that not everything will just come to you naturally and you have to work to be good at most skills. Most of my teammates are from HKIS and since Tigers use the HKIS pitch as a venue I have been able to befriend and also form a close bond with my teammates both on and off the pitch.
@@ -49,6 +81,7 @@ I have been playing soccer for almost 12 years now and it has been my main sport
 The most satisfying things that will happen in a soccer game, from a defender’s standpoint, is being able to slide tackle and sweep the ball, as well as getting a rebound from a corner kick and shooting the ball, or something simple like playing off your teammate and making a play work. Overall soccer has taught me valuable life skills like teamwork and has been an essential part of my identity.
 
 Here are the positions I played in 2 games:
+
 - Right full-back
 - Center midfielder
 - Center back
@@ -56,6 +89,7 @@ Here are the positions I played in 2 games:
 {% include gallery id="gallery2" caption="Tai Tam Tigers vs UKFA." %}
 
 Recent soccer teams I have been in:
+
 - 2023 – 24 HKIS Middle School Varsity U14 Soccer Team
 - 2023 – 24 Tai Tam Tigers U14
 - 2022 – 23 Tai Tam Tigers U13
@@ -63,7 +97,10 @@ Recent soccer teams I have been in:
 - 2020 – 21 Tai Tam Tigers U11
 - 2019 – 20 Tai Tam Tigers U10
 - 2018 – 19 Tai Tam Tigers Training Squad
- 
+
+{% include gallery id="gallery3" caption="Soccer training." %}
+
 Recent leagues I have played in:
+
 - 2023 – 24 International School Sports Federation Hong Kong (ISSFHK)
 - 2019 – 24 Hong Kong Junior Football League (HKJFL)
