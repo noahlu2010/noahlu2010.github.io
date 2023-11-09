@@ -5,11 +5,14 @@ header:
   image: /assets/images/soccer-cover.jpg
 
 gallery1:
-  - image_path: /assets/images/soccer001.jpg
+  - url: /assets/images/soccer001.jpg
+    image_path: /assets/images/soccer001.jpg
     alt: "Playing soccer in my childhood"
-  - image_path: /assets/images/soccer002.jpg
+  - url: /assets/images/soccer002.jpg
+    image_path: /assets/images/soccer002.jpg
     alt: "Playing soccer in my childhood"
-  - image_path: /assets/images/soccer003.jpg
+  - url: /assets/images/soccer003.jpg
+    image_path: /assets/images/soccer003.jpg
     alt: "Playing soccer in my childhood"
 
 gallery2:
