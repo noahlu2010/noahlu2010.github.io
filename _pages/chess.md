@@ -5,7 +5,7 @@ header:
   image: /assets/images/chess-cover.jpg
 ---
 
-I started playing chess seriously in 7th grade. My favorite aspect of the game is that there is no luck involved and it is completely skill-based. After playing in the Chess Club, my friend Eric and I played with other good chess players and wanted to represent HKIS in competitions. We then presented our idea for the Chess Team to our Dean of Activities and he signed off on our Chess Team.
+I started playing chess seriously in 7th grade. My favorite aspect of the game is that there is no luck involved and it is completely skill-based. After playing in the Chess Club, my friend Eric and I played with other good chess players and wanted to represent HKIS in competitions. We then presented our idea for the Chess Team to our Dean of Activities and help signed off on our Chess Team.
 
 <figure style="width: 100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/chess-saint-joseph01.jpg" alt="HKIS Chess Team">
@@ -38,7 +38,7 @@ Chess is often associated with being smart. However, that is not the case. While
   <figcaption>Hong Kong Junior Rapid and Inter-School Chess Championships 2023 (Secondary Division).</figcaption>
 </figure>
 
-Now, I am co-leading both the Chess Club and Chess Team. Since we started the Chess Team, we have competed in a total of 2 inter-school chess championship wins so far. The following list is the tournaments I have competed in.
+Now, I am co-leading both the Chess Club and Chess Team. Since we started the Chess Team, we have competed in a total of 2 inter-school chess championship wins so far. The following list is the tournaments I have competed in:
 
 * 2nd TCA Road to Masters Blitz 2023
 * 4th TCA Road to Masters Blitz 2023

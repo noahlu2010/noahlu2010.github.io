@@ -27,7 +27,7 @@ row2:
     alt: "HKU Eye Centre"
     title: "HKU Eye Centre"
     excerpt: "Last summer, I also got to intern at the University of Hong Kong (HKU) Eye Centre. I shadowed an optometrist in the charity clinic and I visited the lab to learn more about the research behind the leading cause of blindness - glaucoma."
-    url: "/eyecenter/"
+    url: "/eyecentre/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 row3: 
@@ -52,14 +52,14 @@ row5:
   - image_path: /assets/images/ambassador.jpg
     alt: "Student Ambassador"
     title: "Student Ambassador"
-    excerpt: "I recently got selected as student ambassador for HKIS and I have been able to tour many parents."
+    excerpt: "I recently got selected as student ambassador for HKIS. As a representative for the school I gave tours to perspective parents and new students."
     url: "/ambassador/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/summer.jpg
     alt: "Summer Boarding School & Camp"
     title: "Summer Boarding School & Camp"
-    excerpt: " This is my 2 week summer boarding school experience at United World Colleges, and a bit about me going to outward bound twice."
+    excerpt: " This is my 2 week summer boarding school experience at UWC Chang Shu, and a bit about me going to Outward Bound twice."
     url: "/summer/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
