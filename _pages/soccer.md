@@ -13,23 +13,32 @@ gallery1:
     alt: "Playing soccer in my childhood"
 
 gallery2:
-  - image_path: /assets/images/soccer1_DSC07187.jpg
+  - url: /assets/images/soccer1/DSC07187.jpg
+    image_path: /assets/images/soccer1_DSC07187.jpg
     alt: "Tai Tam Tigers vs UKFA"
-  - image_path: /assets/images/soccer1_DSC07284.jpg
+  - url: /assets/images/soccer1/DSC07284.jpg
+    image_path: /assets/images/soccer1_DSC07284.jpg
     alt: "Tai Tam Tigers vs UKFA"
-  - image_path: /assets/images/soccer1_DSC07421.jpg
+  - url: /assets/images/soccer1/DSC07421.jpg
+    image_path: /assets/images/soccer1_DSC07421.jpg
     alt: "Tai Tam Tigers vs UKFA"
-  - image_path: /assets/images/soccer1_DSC07426.jpg
+  - url: /assets/images/soccer1/DSC07426.jpg
+    image_path: /assets/images/soccer1_DSC07426.jpg
     alt: "Tai Tam Tigers vs UKFA"
-  - image_path: /assets/images/soccer1_DSC07428.jpg
+  - url: /assets/images/soccer1/DSC07428.jpg
+    image_path: /assets/images/soccer1_DSC07428.jpg
     alt: "Tai Tam Tigers vs UKFA"
-  - image_path: /assets/images/soccer1_DSC07556.jpg
+  - url: /assets/images/soccer1/DSC07556.jpg
+    image_path: /assets/images/soccer1_DSC07556.jpg
     alt: "Tai Tam Tigers vs UKFA"
-  - image_path: /assets/images/soccer1_DSC07568.jpg
+  - url: /assets/images/soccer1/DSC07568.jpg
+    image_path: /assets/images/soccer1_DSC07568.jpg
     alt: "Tai Tam Tigers vs UKFA"
-  - image_path: /assets/images/soccer1_DSC07636.jpg
+  - url: /assets/images/soccer1/DSC07636.jpg
+    image_path: /assets/images/soccer1_DSC07636.jpg
     alt: "Tai Tam Tigers vs UKFA"
-  - image_path: /assets/images/soccer1_DSC07789.jpg
+  - url: /assets/images/soccer1/DSC07789.jpg
+    image_path: /assets/images/soccer1_DSC07789.jpg
     alt: "Tai Tam Tigers vs UKFA"
 ---
 
