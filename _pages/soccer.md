@@ -42,19 +42,17 @@ gallery2:
     alt: "Tai Tam Tigers vs UKFA"
 ---
 
-I have been playing soccer for almost 12 years now and it has been my main sport. I have been playing defender for 5 years at my current soccer club called *Tai Tam Tigers* and have gotten into the HKIS school soccer team. The aspect of soccer I enjoy the most is the team dynamics and I believe that having good communication with your team is essential for success and is the only way you can play well as a team. Something soccer has taught me is persistence in practice. I learned that not everything will just come to you naturally and you have to work to be good at most skills. Most of my teammates are from HKIS and since Tigers use the HKIS pitch as a venue I have been able to befriend and also form a close bond with my teammates both on and off the pitch.
+I have been playing soccer for almost 12 years now and it has been my main sport. I have been playing defender for 5 years at my current soccer club called Tai Tam Tigers and have gotten into the HKIS school soccer team. The aspect of soccer I enjoy the most is the team dynamics and I believe that having good communication with your team is essential for success and is the only way you can play well as a team. Something soccer has taught me is persistence in practice. I learned that not everything will just come to you naturally and you have to work to be good at most skills. Most of my teammates are from HKIS and since Tigers use the HKIS pitch as a venue I have been able to befriend and also form a close bond with my teammates both on and off the pitch.
 
 {% include gallery id="gallery1" caption="Playing soccer in my childhood." %}
 
 The most satisfying things that will happen in a soccer game, from a defender’s standpoint, is being able to slide tackle and sweep the ball, as well as getting a rebound from a corner kick and shooting the ball, or something simple like playing off your teammate and making a play work.Overall soccer has taught me valuable life skills like teamwork and has been an essential part of my identity.
 
 Here are the positions I played in 2 games:
-- Right wing back
+- Right full-back
 - Center midfielder
 - Center back
  
-{% include gallery id="gallery2" caption="Tai Tam Tigers vs UKFA." %}
-
 Recent soccer teams I have been in:
 - 2023 – 24 HKIS Middle School Varsity U14 Soccer Team
 - 2023 – 24 Tai Tam Tigers U14
