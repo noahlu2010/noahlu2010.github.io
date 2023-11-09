@@ -73,13 +73,13 @@ gallery3:
     image_path: /assets/images/soccer2_WA106147.jpg
     alt: "Soccer training"
   - url: /assets/images/soccer2/WA106151.jpg
-    image_path: /assets/images/soccer2_WA1061451.jpg
+    image_path: /assets/images/soccer2_WA106151.jpg
     alt: "Soccer training"
   - url: /assets/images/soccer2/WA106154.jpg
     image_path: /assets/images/soccer2_WA106154.jpg
     alt: "Soccer training"
   - url: /assets/images/soccer2/WA106156.jpg
-    image_path: /assets/images/soccer2_WA1061456.jpg
+    image_path: /assets/images/soccer2_WA106156.jpg
     alt: "Soccer training"        
 ---
 
