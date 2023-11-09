@@ -1,0 +1,15 @@
+main:
+  - title: "Biology"
+    sublinks:
+      - title: "ADMCF"
+        url: /admcf/
+      - title: "HKU Eye Centre"
+        url: /eyecentre/
+  - title: "Chess"
+    url: /chess/
+  - title: "Soccer"
+    url: /soccer/
+  - title: "Student Ambassador"
+    url: /ambassador/
+  - title: "Summer Boarding School & Camp"
+    url: /summer/
