@@ -31,14 +31,14 @@ During my time at ADMCF, I had to research endangered animals and write down spe
 <figure style="width: 100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf-highvolume.jpg" alt="High Volume Species Statistics">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf-lowvolume.jpg" alt="Low Volume Species Statistics">
-  <figcaption>Data of wildlife species in Hong Kong</figcaption>
+  <figcaption>Data of wildlife species in Hong Kong.</figcaption>
 </figure>
 
 <figure style="width: 30%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf003.jpg" alt="Baby Turtle">
-  <figcaption>Baby Alligator Snapping Turtle</figcaption>
+  <figcaption>Baby Alligator Snapping Turtle.</figcaption>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf004.jpg" alt="Big Turtle">
-  <figcaption>Adult Alligator Snapping Turtle</figcaption>
+  <figcaption>Adult Alligator Snapping Turtle.</figcaption>
 </figure>
 
 Out of all of the animals I researched, my favorite was the alligator snapping turtle because of its cool, sharp looks. The alligator snapping turtle is a prehistoric, dinosaur-looking turtle whose main habitat is in bodies of water that flow into the Gulf of Mexico. This creature starts out no bigger than 1.5 inches( 3.8 cm). However, they grow to about 29 inches in length (73.6cm). As the name suggests the snapping turtle snaps and its snap is very dangerous as it uses 210 newtons of force and can bite someone's finger off.
@@ -67,7 +67,7 @@ ADMCF will put my research into a report. They will then send it to lobby the go
       <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf-report03.jpg" alt="Research report 3">
     </div>
   </div>
-  <figcaption>Research reports on wildlife trade published by ADMCF</figcaption>
+  <figcaption>Research reports on wildlife trade published by ADMCF.</figcaption>
   <br />
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf-pressconf.jpg" alt="Press Conference">
   <figcaption>Press conference on 6 Sep 2023 (<a href="https://www.chinadailyhk.com/article/349777#Stricter-regulations-sought-to-protect-exotic-animals-in-HK">news report</a> by China Daily Hong Kong).</figcaption>
