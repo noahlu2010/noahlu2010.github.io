@@ -90,7 +90,7 @@ Here are the positions I played in 2 games:
 
 Recent soccer teams I have been in:
 
-- 2023 – 24 HKIS Middle School Varsity U14 Soccer Team
+- 2023 – 24 HKIS Middle School C-grade U14 Soccer Team
 - 2023 – 24 Tai Tam Tigers U14
 - 2022 – 23 Tai Tam Tigers U13
 - 2021 – 22 Tai Tam Tigers U12
