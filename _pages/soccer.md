@@ -86,7 +86,7 @@ Here are the positions I played in 2 games:
 - Center midfielder
 - Center back
 
-{% include gallery id="gallery2" caption="Tai Tam Tigers vs UKFA" %}
+{% include gallery id="gallery2" %}
 
 Recent soccer teams I have been in:
 
@@ -98,7 +98,7 @@ Recent soccer teams I have been in:
 - 2019 – 20 Tai Tam Tigers U10
 - 2018 – 19 Tai Tam Tigers Training Squad
 
-{% include gallery id="gallery3" caption="Soccer training" %}
+{% include gallery id="gallery3" %}
 
 Recent leagues I have played in:
 
