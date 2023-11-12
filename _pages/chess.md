@@ -9,7 +9,7 @@ I started playing chess seriously in 7th grade. My favorite aspect of the game i
 
 <figure style="width: 100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/chess-saint-joseph01.jpg" alt="HKIS Chess Team">
-  <figcaption>HKIS Chess Team.</figcaption>
+  <figcaption>HKIS Chess Team</figcaption>
 </figure>
 
 <figure style="width: 50%" class="align-right">
@@ -30,12 +30,12 @@ Chess is often associated with being smart. However, that is not the case. While
 
 <figure style="width: 50%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/chess-malvern.jpg" alt="U18 Malvern College Champion">
-  <figcaption>Championship of the Malvern College Hong Kong Open 2023 - Dr. R. Lister Cup (U18 Category).</figcaption>
+  <figcaption>Championship of the Malvern College Hong Kong Open 2023 - Dr. R. Lister Cup (U18 Category)</figcaption>
 </figure>
 
 <figure style="width: 50%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/chess-saint-joseph02.jpg" alt="Hong Kong Junior Rapid and Inter-School Chess Championships">
-  <figcaption>Hong Kong Junior Rapid and Inter-School Chess Championships 2023 (Secondary Division).</figcaption>
+  <figcaption>Hong Kong Junior Rapid and Inter-School Chess Championships 2023 (Secondary Division)</figcaption>
 </figure>
 
 Now, I am co-leading both the Chess Club and Chess Team. Since we started the Chess Team, we have competed in a total of 2 inter-school chess championship wins so far. The following list is the tournaments I have competed in:

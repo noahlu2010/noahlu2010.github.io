@@ -16,7 +16,7 @@ Last summer I applied and was selected to be a Student Ambassador for HKIS. I wa
       {% include video id="10kAl37XU7tEUCapesQb_X7KfY29SNdft" provider="google-drive" %}
     </div>
   </div>
-  <figcaption>Presenting as Student Ambassador at Parent Coffee together with school counsellors to Middle School parents about my perspective on how to proactive looking after students Mental health and Wellbeing.</figcaption>
+  <figcaption>Noah presenting as Student Ambassador at Parent Coffee together with school counsellors to Middle School parents about my perspective, on how to proactively look after students mental health and wellbeing</figcaption>
 </figure>
 
 <div class="row">
