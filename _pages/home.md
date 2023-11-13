@@ -60,7 +60,7 @@ row5:
   - image_path: /assets/images/summer.jpg
     alt: "Summer Boarding School & Camp"
     title: "Summer Boarding School & Camp"
-    excerpt: "This summer I went to a summer boarding school at UWC Chang Shu, China. Apart from summer academic boarding school, I also went to Outward Bound twice which is an outdoor experiential camp."
+    excerpt: "This summer I went to a summer boarding school at United World Colleges (UWC) Chang Shu, China, which was a 2-week boarding school experience with loads of activities. Apart from the academically-focused summer boarding school, I also went to Outward Bound twice which is an outdoor experiential and overnight 5/6-day camp."
     url: "/summer/"
     btn_label: "Read More"
     btn_class: "btn--inverse"

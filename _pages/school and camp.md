@@ -62,7 +62,7 @@ This was a 2-week boarding school experience with loads of activities. For this 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/summer003.jpg" alt="Summer camp">
   <figcaption>Outward Bound camp with friends</figcaption>
 </figure>
-Apart from my UWC experience I also went to the Outward Bound outdoor experience & overnight 5/6-day camps in Hong Kong twice. Both times I camped in tents with my friends and also experienced the beauty of nature through hiking and kayaking. This was an amazing experience and was buckets of fun as after the first time I chose to go a second time the following year.
+Apart from my UWC experience I also went to the Outward Bound outdoor experience and overnight 5/6-day camps in Hong Kong twice. Both times I camped in tents with my friends and also experienced the beauty of nature through hiking and kayaking. This was an amazing experience and was buckets of fun as after the first time I chose to go a second time the following year.
 <div class="row">
 </div>
 
