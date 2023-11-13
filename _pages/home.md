@@ -14,6 +14,7 @@ row1:
     
       My favorite subject at school is science, specifically biology. While I have explored many aspects of biology, including biodiversity and human biology, I am most interested in human biology. I find the human body and all its inner workings fascinating. 
 
+      > **While none of us have all the answers, <span style="color:red">together</span> we may find a <span style="color:red">solution</span>.**<br /><br />- John Doerr, author of the book "Speed & Scale"
 
 row2:
   - image_path: /assets/images/admcf.jpg
@@ -52,14 +53,14 @@ row5:
   - image_path: /assets/images/ambassador.jpg
     alt: "Student Ambassador"
     title: "Student Ambassador"
-    excerpt: "I recently got selected as student ambassador for HKIS, and out of 26 students out of the 76 candidates were selected. As a representative for the school I gave tours to perspective parents and new students, I also give student leader perspective during Parent Coffees on what the school teaches, such as mental health."
+    excerpt: "I recently got selected as student ambassador for HKIS, and 26 students out of 76 candidates were selected. As a representative for the school I give tours to perspective parents and new students. I also represent student leaders' perspective on parent coffee gatherings on various issues such as students' mental health and wellbeing."
     url: "/ambassador/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/summer.jpg
     alt: "Summer Boarding School & Camp"
     title: "Summer Boarding School & Camp"
-    excerpt: " This summer I went to a summer boarding school experience at UWC Chang Shu China. Apart from going to acedemic summer boarding school, I also went to Outward Bound which is an outdoor experiential camp."
+    excerpt: "This summer I went to a summer boarding school at UWC Chang Shu, China. Apart from summer academic boarding school, I also went to Outward Bound twice which is an outdoor experiential camp."
     url: "/summer/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
