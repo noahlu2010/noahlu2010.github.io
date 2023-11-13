@@ -43,11 +43,12 @@ Now, I am co-leading both the Chess Club and Chess Team. Since we started the Ch
 * **Hong Kong Junior Rapid and Inter-School Chess Championships 2023 (Secondary Division)**
 * **Malvern College Hong Kong Open 2023 - Dr. R. Lister Cup (U18 Category)**
 * The Chinese University of Hong Kong Chess Open 2023 (Secondary Division)
+* St. Petersburg vs Hong Kong Online Chess Tournament 2023
 * 2nd TCA Road to Masters Blitz 2023
 * 4th TCA Road to Masters Blitz 2023
 * Caissa Winter Blitz 2023
 * HKCFL Feb Novice Blitz - 2023
 * Hong Kong International School Chess Club Online Tournament
 * Caissa End of the Month (EOM) Tournament 2023
-* St. Petersburg vs Hong Kong Online Chess Tournament 2023
+
 
