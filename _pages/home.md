@@ -59,7 +59,7 @@ row5:
   - image_path: /assets/images/summer.jpg
     alt: "Summer Boarding School & Camp"
     title: "Summer Boarding School & Camp"
-    excerpt: " This summer I went to a summer boarding school experience at UWC Chang Shu China. Apart from going to acedemic summer boarding school, I also went to Outward Bound an outdoor experiential camp."
+    excerpt: " This summer I went to a summer boarding school experience at UWC Chang Shu China. Apart from going to acedemic summer boarding school, I also went to Outward Bound which is an outdoor experiential camp."
     url: "/summer/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
