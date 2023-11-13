@@ -52,14 +52,14 @@ row5:
   - image_path: /assets/images/ambassador.jpg
     alt: "Student Ambassador"
     title: "Student Ambassador"
-    excerpt: "I recently got selected as student ambassador for HKIS. 26 students out of the 76 candidates were selected. As a representative for the school I gave tours to perspective parents and new students."
+    excerpt: "I recently got selected as student ambassador for HKIS, and out of 26 students out of the 76 candidates were selected. As a representative for the school I gave tours to perspective parents and new students, I also give student leader perspective during Parent Coffees on what the school teaches, such as mental health."
     url: "/ambassador/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/summer.jpg
     alt: "Summer Boarding School & Camp"
     title: "Summer Boarding School & Camp"
-    excerpt: " This summer I went to a summer boarding school experience at UWC Chang Shu China. Apart from going."
+    excerpt: " This summer I went to a summer boarding school experience at UWC Chang Shu China. Apart from going to acedemic summer boarding school, I also went to Outward Bound an outdoor experiential camp."
     url: "/summer/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
