@@ -5,7 +5,7 @@ header:
   image: /assets/images/admcf-cover.jpg
 ---
 
-In my seventh-grade science class, we did a unit on ecosystems. For my final project, I researched the kelp forest and learned about the many animals species that lived in that ecosystem and found it interesting. I wanted to learn more about biodiversity and the different species on our planet. With the help of my family, we came across this environmental foundation called [ADMCF](https://www.admcf.org/) that dealt with biodiversity and animal protection. They needed some help in cataloging some of the endangered animals so I volunteered to help them.
+In my seventh-grade science class, we did a unit on ecosystems. For my final project, I researched the kelp forest and learned about the many animals species that lived in that ecosystem and found it interesting. I wanted to learn more about biodiversity and the different species on our planet. I came across this environmental foundation called [ADMCF](https://www.admcf.org/) that dealt with biodiversity and animal protection. They needed help in cataloging some of the endangered animals, as data on the wildlife trade was scarce. Therefore, I volunteered to help them.
 
 ## What is ADMCF
 
@@ -26,7 +26,7 @@ Hong Kong is the biggest hub for wildlife trade. Between 2013-2019, more than HK
 
 ## What am I doing for ADMCF
 
-During my time at ADMCF, I had to research endangered animals and write down specific information about them in a slide. Following a list of species that ADMCF had provided, I looked up their population numbers, their habitats, use and trade, threats to their species, weight, lifespan, and, if available, fun facts. They told me that I didn't have to finish the entire list, and “to do as much as I can.” By the end of the summer, I had finished researching a total of 44 species.
+During my time at ADMCF, I had to research endangered animals and write down specific information about them in a slide. Following a list of species that ADMCF had provided, I looked up their population numbers, their habitats, use and trade, threats to their species, weight, lifespan, and, if available, fun facts. They are especially interested in fun facts to understand the reason why specific animals are being popularly traded. By the end of the summer, I had finished researching a total of 44 species.
 
 <figure style="width: 100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf-highvolume.jpg" alt="High Volume Species Statistics">
@@ -53,7 +53,7 @@ This caused a big problem as the vendors were selling the baby versions at a che
 
 ## How this is going to help ADMCF
 
-ADMCF will put my research into a report. They will then send it to lobby the government who will hopefully tighten the rules regarding the trade. This is good because it helps restrict the trade and protect more wildlife and maintain biodiversity in a variety of ecosystems. They will also use some of the fun facts that I found to raise public awareness and interest in the topic.
+ADMCF will put my research into a report. They will then send it to lobby the government who will hopefully tighten the rules regarding the trade. The aim is to ultimately help restrict the trade and protect more wildlife and maintain biodiversity in a variety of ecosystems. They will also use some of the fun facts that I found to raise public awareness and interest in the topic.
 
 <figure style="width: 100%" class="align-center">
   <div class="row">
@@ -75,4 +75,4 @@ ADMCF will put my research into a report. They will then send it to lobby the go
 
 ## Reflection
 
- The main takeaway I have is that a lot of critical details are missing such as their use and trade, they would also mysteriously disappear after reaching Hong Kong, etc. This is a huge problem as we don't know what happens to these animals after they get imported into Hong Kong. This could lead to many weird or dangerous encounters such as the time a 2 meter long crocodile was found in someone's yard in New Territories. I am thankful to have helped the ADMCF in their goal, and am very proud to help protect many animals.
+ The main takeaway for me on this research project is that a lot of critical details are missing such as their use and trade, they would also mysteriously disappear after reaching Hong Kong, etc. This is a huge problem as we don't know what happens to these animals after they get imported into Hong Kong. This could lead to many weird or dangerous encounters such as the time a 2 meter long crocodile was found in someone's yard in New Territories. I am thankful to have helped the ADMCF in their goal, and am very proud to help protect many animals.
