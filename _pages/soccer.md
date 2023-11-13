@@ -74,7 +74,7 @@ gallery3:
     alt: "Soccer training"        
 ---
 
-I have been playing soccer for almost 12 years now and it has been my main sport. I have been playing defender for 5 years at my current soccer club called Tai Tam Tigers and have gotten into the HKIS school soccer team. The aspect of soccer I enjoy the most is the team dynamics and I believe that having good communication with your team is essential for success and is the only way you can play well as a team. Something soccer has taught me is persistence in practice. I learned that not everything will just come to you naturally and you have to work to be good at most skills. Most of my teammates are from HKIS and since Tigers use the HKIS pitch as a venue I have been able to befriend and also form a close bond with my teammates both on and off the pitch.
+I have been playing soccer for almost 12 years now and it has been my main sport. I have been playing defender for 5 years at my current soccer club called Tai Tam Tigers and am I also in the HKIS school soccer team. The aspect of soccer I enjoy the most is the team dynamics and I believe that having good communication with your team is essential for success and is the only way you can play well as a team. Something soccer has taught me is persistence in practice. I learned that not everything will just come to you naturally and you have to work to be good at most skills. Most of my teammates are from HKIS and since Tigers plays at the HKIS pitch. I have been able to form a close bond with my school teammates both on and off the pitch.
 
 {% include gallery id="gallery1" caption="Playing soccer in my childhood" %}
 
@@ -90,7 +90,7 @@ Here are the positions I played in 2 games:
 
 Recent soccer teams I have been in:
 
-- 2023 – 24 HKIS Middle School C-grade U14 Soccer Team
+- 2023 – 24 HKIS Middle School U14 Soccer Team
 - 2023 – 24 Tai Tam Tigers U14
 - 2022 – 23 Tai Tam Tigers U13
 - 2021 – 22 Tai Tam Tigers U12
