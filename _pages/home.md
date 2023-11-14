@@ -14,7 +14,7 @@ row1:
     
       My favorite subject at school is science, specifically biology. While I have explored many aspects of biology, including biodiversity and human biology, I am most interested in human biology. I find the human body and all its inner workings fascinating. 
 
-      > **While none of us have all the answers, <span style="color:red">together</span> we may find a <span style="color:red">solution</span>.**<br /><br />- John Doerr, author of the book "Speed & Scale"
+      > **While none of us have all the answers, <span style="color:red">together</span> we may find a <span style="color:red">solution</span>.**<br /><br />- John Doerr, "Speed & Scale: An Action Plan for Solving Our Climate Crisis Now"
 
 row2:
   - image_path: /assets/images/admcf.jpg
