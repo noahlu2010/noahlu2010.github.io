@@ -30,11 +30,11 @@ gallery3:
   - url: /assets/images/summer005.jpg
     image_path: /assets/images/summer005.jpg
     alt: "Outward bound camp"
-  - url: /assets/images/summer006.jpg
-    image_path: /assets/images/summer006.jpg
-    alt: "Outward bound camp"
   - url: /assets/images/summer007.jpg
     image_path: /assets/images/summer007.jpg
+    alt: "Outward bound camp"
+  - url: /assets/images/summer006.jpg
+    image_path: /assets/images/summer006.jpg
     alt: "Outward bound camp"
 ---
 
