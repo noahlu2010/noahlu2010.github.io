@@ -5,7 +5,7 @@ header:
   image: /assets/images/admcf-cover.jpg
 ---
 
-In my seventh-grade science class, we did a unit on ecosystems. For my final project, I researched the kelp forest and learned about the many animals species that lived in that ecosystem and found it interesting. I wanted to learn more about biodiversity and the different species on our planet. I came across this environmental foundation called [ADMCF](https://www.admcf.org/) that dealt with biodiversity and animal protection. They needed help in cataloging some of the endangered animals, as data on the wildlife trade was scarce. Therefore, I volunteered to help them.
+In my seventh-grade science class, we did a unit on ecosystems. For my final project, I researched the kelp forest and learned about the many animals species that lived in that ecosystem and found it interesting. I wanted to learn more about biodiversity and the different species on our planet. I came across this environmental foundation called [ADMCF](https://www.admcf.org/) that dealt with biodiversity and animal protection. They needed help in cataloging some of the endangered animals, as data on the wildlife trade is scarce. Therefore, I volunteered to help them.
 
 ## What is ADMCF
 
