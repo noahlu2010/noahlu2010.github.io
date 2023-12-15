@@ -35,7 +35,7 @@ row4:
   - image_path: /assets/images/chess.jpg
     alt: "chess"
     title: "Chess"
-    excerpt: "I started playing chess during covid and became one of my favorite hobbies. This year, I am a co-leader of the Middle School Chess Club and I also recreated a Middle School Chess Team to compete in inter-school competitions. "
+    excerpt: "I started playing chess during covid and it became one of my favorite hobbies. This year, I am a co-leader of the Middle School Chess Club and I also recreated a Middle School Chess Team to compete in inter-school competitions. "
     url: "/chess/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
