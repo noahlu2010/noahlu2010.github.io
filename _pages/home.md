@@ -51,7 +51,7 @@ row5:
   - image_path: /assets/images/ambassador.jpg
     alt: "Student Ambassador"
     title: "Student Ambassador"
-    excerpt: "I recently got selected as student ambassador for HKIS, and 26 students out of 76 candidates were selected. As a representative for the school I give tours to perspective parents and new students. I also represent student leaders' perspective on parent coffee gatherings on various issues such as students' mental health and wellbeing."
+    excerpt: "I recently got selected as student ambassador for HKIS, and 26 students out of 76 candidates were selected. As a representative for the school I give tours to prospective parents and new students. I also represent student leaders' perspective on parent coffee gatherings on various issues such as students' mental health and wellbeing."
     url: "/ambassador/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
